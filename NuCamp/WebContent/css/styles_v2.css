@@ -1,0 +1,42 @@
+@charset "ISO-8859-1";
+body{
+	font-family: "Open Sans";
+}
+h1{
+	font-family:"Short Stack";
+}
+h2{
+	font-family:"Bree Serif"
+}
+h3{
+	font-family:"Ubuntu";
+}
+
+header h2{
+	color: #8e80ff;
+}
+.site-footer {
+    background-image: linear-gradient(#99ccff, white);
+    padding: 20px 0;
+}
+.jumbotron {
+	margin: 0;
+    padding: 30px;
+    background-image: linear-gradient(to right, #99ccff, #d6dbf5, #eebcf5);
+    color: white;
+}
+.row-content {
+    padding: 50px 0;
+    border-bottom: 1px ridge;
+    min-height: 200px;
+}
+
+.tab-content{
+	border: 1px solid #DDD;
+	border-top: none;
+	padding: 10px;
+}
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5);
+}
